@@ -1,0 +1,11 @@
+Model Information:
+* title:	crane machine
+* source:	https://sketchfab.com/3d-models/crane-machine-ea2f7f1ed1f8470cbe01699e6714a55e
+* author:	abhijithsajikumarsvtm (https://sketchfab.com/abhijithsajikumarsvtm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "crane machine" (https://sketchfab.com/3d-models/crane-machine-ea2f7f1ed1f8470cbe01699e6714a55e) by abhijithsajikumarsvtm (https://sketchfab.com/abhijithsajikumarsvtm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
